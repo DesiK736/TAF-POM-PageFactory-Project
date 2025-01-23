@@ -1,10 +1,10 @@
 
-<h2 align="center">**"TAF POM PageFactory" Project**</h2>
+## <div align="center">"TAF POM PageFactory" Project</div>
 
-<h4 align="center">**~ A marvelous opportunity for automating 'Iskillo' website! ~**</h4>
+#### <div align="center">~ A marvelous opportunity for automating 'Iskillo' website! ~</div>
 
-<h6 align="center">**[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjMuNTE2NjkzMTE1MjM0NCIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDMyMy41MTY2OTMxMTUyMzQ0IDM1Ij48cmVjdCB3aWR0aD0iMTcwLjUxNjY3Nzg1NjQ0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiM0MTc1MDUiLz48cmVjdCB4PSIxNzAuNTE2Njc3ODU2NDQ1MyIgd2lkdGg9IjE1My4wMDAwMTUyNTg3ODkwNiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRhNGE0YSIvPjx0ZXh0IHg9Ijg1LjI1ODMzODkyODIyMjY2IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj4mbHQ7L01BREUgV0lUSCBKQVZBJmd0OzwvdGV4dD48dGV4dCB4PSIyNDcuMDE2Njg1NDg1ODM5ODQiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj7imaEgQlVJTFQgV0lUSCDimaE8L3RleHQ+PC9zdmc+)](https://forthebadge.com)**</h6>
-
+###### <div align="center"> [![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjMuNTE2NjkzMTE1MjM0NCIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDMyMy41MTY2OTMxMTUyMzQ0IDM1Ij48cmVjdCB3aWR0aD0iMTcwLjUxNjY3Nzg1NjQ0NTMiIGhlaWdodD0iMzUiIGZpbGw9IiM0MTc1MDUiLz48cmVjdCB4PSIxNzAuNTE2Njc3ODU2NDQ1MyIgd2lkdGg9IjE1My4wMDAwMTUyNTg3ODkwNiIgaGVpZ2h0PSIzNSIgZmlsbD0iIzRhNGE0YSIvPjx0ZXh0IHg9Ijg1LjI1ODMzODkyODIyMjY2IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNmZmZmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIj4mbHQ7L01BREUgV0lUSCBKQVZBJmd0OzwvdGV4dD48dGV4dCB4PSIyNDcuMDE2Njg1NDg1ODM5ODQiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInTW9udHNlcnJhdCcsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtd2VpZ2h0PSI5MDAiIGxldHRlci1zcGFjaW5nPSIyIj7imaEgQlVJTFQgV0lUSCDimaE8L3RleHQ+PC9zdmc+)](https://forthebadge.com)
+</div>
 ----------------------------------------------------------------------------------------------------------
 <a id="readme-top"></a>
 
@@ -12,42 +12,29 @@
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li>
-      <a href="#i-about-the-project">I. ABOUT THE PROJECT</a>
-    </li>
-    <li>
-      <a href="#ii-getting-started">II. GETTING STARTED</a>
+    <li>I. [ABOUT THE PROJECT](#i-about-the-project)</li>
+    <li>II. [GETTING STARTED](#ii-getting-started)</li>
       <ul>
-        <li><a href="#1-prerequisites">1. Prerequisites</a></li>
-        <li><a href="#2-installation-steps">2. Installation Steps</a></li>
-        <li><a href="#3-languages-and-frameworks">3. Languages and Frameworks</a></li>
+        <li>1. [Prerequisites](#1-prerequisites)</li>
+        <li>2. [Installation Steps](#2-installation-steps)</li>
+        <li>3. [Languages and Frameworks](#3-languages-and-frameworks)</li>
       </ul>
-    </li>
-    <li>
-      <a href="#iii-basic-usage">III. BASIC USAGE</a>
+    <li>III. [BASIC USAGE](#iii-basic-usage)</li>
       <ul>
-        <li><a href="#1-general-project-structure">1. General Project Structure</a></li>
-        <li><a href="#2-additional-folders-in-the-main-directory">2. Additional Folders in the 'main' Directory</a></li>
+        <li>1. [General Project Structure](#1-general-project-structure)</li>
+        <li>2. [Additional Folders in the 'main' Directory](#2-additional-folders-in-the-main-directory)</li>
       </ul>
-    </li>
-    <li>
-      <a href="#iv-embedded-test-activities">IV. EMBEDDED TEST ACTIVITIES</a>
+    <li>IV. [EMBEDDED TEST ACTIVITIES](#iv-embedded-test-activities)</li>
       <ul>
-        <li><a href="#1-list-of-the-test-cases">1. List of the Test Cases</a></li>
-        <li><a href="#2-test-resources-folders">2. Test Resources Folders</a></li>
+        <li>1. [List of the Test Cases](#1-list-of-the-test-cases)</li>
+        <li>2. [Test Resources Folders](#2-test-resources-folders)</li>
       </ul>
-    </li>
-    <li>
-      <a href="#v-running-automation-test-suite">V. RUNNING AUTOMATION TEST SUITE</a>
-    </li>
-    <li>
-      <a href="#vi-bug-report">VI. BUG REPORT</a>
-    </li>
-    <li>
-      <a href="#vii-contact">VII. CONTACT</a>
-    </li>
+    <li>V. [RUNNING AUTOMATION TEST SUITE](#v-running-automation-test-suite)</li>
+    <li>VI. [BUG REPORT](#vi-bug-report)</li>
+    <li>VII. [CONTACT](#vii-contact)</li>
   </ul>
 </details>
+
 
 <!-- ABOUT THE PROJECT -->
 ## I. ABOUT THE PROJECT
@@ -355,7 +342,7 @@ There is some essential course in generating test suite report, shared further. 
 
 _With regard to the whole project research, specified report is introduced, which ensure concise form of found errors and shared bug explanation details._
 
--[ ] => [BUG Traceability Matrix Report.pdf](src%2Ftest%2Fresources%2Fupload%2FBUG%20Traceability%20Matrix%20Report.pdf)
+=> [BUG Traceability Matrix Report.pdf](src%2Ftest%2Fresources%2Fupload%2FBUG%20Traceability%20Matrix%20Report.pdf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
