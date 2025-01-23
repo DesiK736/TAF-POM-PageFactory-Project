@@ -2,13 +2,11 @@ package gui.base;
 
 /* Created by: {@Desislava Kancheva/GitHub username: @DesiK736} */
 
-
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -24,7 +22,7 @@ public class BrowserDriverFactory {
     }
 
     public WebDriver createDriver() {
-        // Create driver
+
         log.info("Create driver: " + browser);
 
         switch (browser) {
@@ -39,7 +37,7 @@ public class BrowserDriverFactory {
                 break;
 
             default:
-                System.out.println("Do not know how to start: " + browser + ", starting chrome.");
+                System.out.println("Do not know how to start: " + browser + ",  starting chrome.");
 
                 driver.set(new ChromeDriver());
                 break;
