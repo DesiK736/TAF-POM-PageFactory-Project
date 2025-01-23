@@ -3,8 +3,7 @@
 
 #### <div align="center">~ A marvelous opportunity for automating 'Iskillo' website! ~</div>
 
-###### <div align="center">
-[![forthebadge](custom-badge.svg)](https://forthebadge.com)
+###### <div align="center"> [![forthebadge](custom-badge.svg)](https://forthebadge.com)
 </div>
 ----------------------------------------------------------------------------------------------------------
 <a id="readme-top"></a>
